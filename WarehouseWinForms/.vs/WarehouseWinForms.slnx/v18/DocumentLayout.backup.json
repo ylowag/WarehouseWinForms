@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\warehousewinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|solutionrelative:warehousewinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\warehousewinforms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|solutionrelative:warehousewinforms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\warehousewinforms\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|solutionrelative:warehousewinforms\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\warehousewinforms\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|solutionrelative:warehousewinforms\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|c:\\users\\maks\\source\\repos\\warehousewinforms\\warehousewinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657014B-9F14-4F6A-8F23-E39F1FBDC776}|WarehouseWinForms\\WarehouseWinForms.csproj|solutionrelative:warehousewinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WarehouseWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Form1.cs",
+              "RelativeToolTip": "WarehouseWinForms\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:30:02.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseWinForms\\Product.cs",
+              "ToolTip": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Product.cs",
+              "RelativeToolTip": "WarehouseWinForms\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:09:42.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\EmailService.cs",
+              "RelativeDocumentMoniker": "WarehouseWinForms\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\EmailService.cs",
+              "RelativeToolTip": "WarehouseWinForms\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:12:34.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WarehouseWinForms\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\WeatherService.cs",
+              "RelativeToolTip": "WarehouseWinForms\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:13:18.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Maks\\source\\repos\\WarehouseWinForms\\WarehouseWinForms\\Program.cs",
+              "RelativeToolTip": "WarehouseWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:14:54.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
